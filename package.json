@@ -1,7 +1,7 @@
 {
     "name": "cis-1090-lab7",
     "version": "1.0.0",
-    "author": "bkuker <bill.kuker@castleton.edu>",
+    "author": "Royal Wood V  <rrw00414@csc.vsc.edu>",
     "type": "module",
     "scripts": {
         "test": "mocha"
